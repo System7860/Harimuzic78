@@ -19,7 +19,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID",-1002543742001))
 
 OWNER_ID = int(getenv("OWNER_ID", 7903596664))
 
-OWNER = int(getenv("OWNER", 7903596664))
+OWNER = int(getenv("OWNER", 7903596664))https://telegra.ph/Privacy-Policy-for-AnieXEricaMusic-10-06
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
